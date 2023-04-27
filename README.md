@@ -1,2 +1,2 @@
-# printf
-Our own created version of printf
+In this project we have created our own printf fucntions
+using the write system call
